@@ -1,0 +1,68 @@
+*{
+    background-color: rgb(31, 205, 224);
+    color: rgb(59, 5, 5);
+    text-align:center;
+    font-family: 'Franklin Gothic Medium';
+}
+#imgPerfil{
+    border-radius: 350px;
+    text-align: center;
+}
+.titulos{
+font-size: 200%;
+font-style:inherit;
+}
+
+h2{
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+h3{ 
+    font-size: 250%; 
+    text-align: left;
+    text-decoration: underline;
+    color: black;
+}
+h4{ 
+    font-size: 190%; 
+    text-align: left;
+    text-decoration: aqua;
+    color: black;
+}
+li{ 
+    font-size: 100%; 
+    text-align: left;
+    text-decoration: underline;
+    color: black;
+}
+
+footer{ 
+    font-size: 100%; 
+    text-align: right;
+    text-decoration:overline;
+    color: black;
+}
+#biografia{
+display: inline-block;
+}
+.divInline{
+    display: block;
+    text-align: left;
+}
+
+P{
+    font-size: 150%;
+    text-align: justify;
+
+
+.flexElemento{
+    width: 400px;
+    height: 40px;
+    background-color: bisque;
+    margin: 15px;
+
+}
+
+
